@@ -1,0 +1,253 @@
+p {
+  margin-bottom: 0rem !important;
+}
+
+.pt-30 {
+  padding-top: 5rem;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.rounded-4 {
+  border-radius: 0.75rem;
+}
+
+.h-260 {
+  height: 260px;
+}
+
+.w-55 {
+  width: 55px;
+}
+
+.container-custom-850 {
+  max-width: 850px;
+}
+
+.border-gray {
+  border-color: #e0e0e0;
+}
+
+.z-20 {
+  z-index: 20;
+}
+
+.top-30 {
+  top: 30px !important;
+}
+
+.top-170 {
+  top: 170px !important;
+}
+
+.top-100 {
+  top: 100px !important;
+}
+
+.custom-object-fit-contain {
+  object-fit: contain;
+}
+
+.custom-object-fit-cover {
+  object-fit: cover;
+}
+
+.custom-object-fit-fill {
+  object-fit: fill;
+}
+
+.end-13 {
+  right: 13%;
+}
+
+.rounded-b-lg {
+  border-bottom-left-radius: 2rem;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .crm-logo-one {
+    right: 55px;
+  }
+
+  .crm-logo-one img {
+    height: 180px;
+  }
+
+  .mask-grp img {
+    width: 700px;
+  }
+  .explore-journel img {
+    width: 580px;
+  }
+  .crm-logo-two img {
+    height: 215px;
+  }
+  .figma {
+    top: 100px !important;
+    width: 360px !important;
+  }
+  .figma p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 819px) and (max-width: 820px) {
+  .crm-logo-one {
+    right: 55px;
+  }
+
+  .crm-logo-one img {
+    height: 180px;
+  }
+
+  .mask-grp img {
+    width: 420px;
+  }
+  .explore-journel img {
+    width: 360px;
+  }
+  .crm-logo-two img {
+    height: 215px;
+  }
+  .figma {
+    top: 100px !important;
+    width: 360px !important;
+  }
+  .figma p {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  .crm-logo-one {
+    right: 55px;
+  }
+
+  .crm-logo-one img {
+    height: 180px;
+  }
+
+  .mask-grp img {
+    width: 500px;
+  }
+  .explore-journel img {
+    width: 430px;
+  }
+  .crm-logo-two img {
+    height: 215px;
+  }
+
+  .victorflow-section {
+    padding: 2rem !important;
+  }
+  .follow-us {
+    padding-top: 2rem !important;
+  }
+  .figma {
+    top: 100px !important;
+    width: 300px;
+  }
+
+  .figma p {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 480px) {
+  .mask-grp img {
+    width: 300px;
+  }
+  .explore-journel img {
+    width: 270px;
+  }
+
+  .figma {
+    top: 80px !important;
+  }
+  .imagesec p {
+    font-size: 12px;
+  }
+  .fontsec p {
+    font-size: 12px;
+  }
+  .first-section p {
+    font-size: 12px;
+  }
+
+  .first-section .crm-logo-two img {
+    height: 160px;
+  }
+  .first-section .crm-logo-one img {
+    height: 100px;
+  }
+
+  .filedark {
+    min-height: 60vh;
+  }
+}
+
+@media (min-width: 321px) and (max-width: 375px) {
+  .mask-grp img {
+    width: 260px;
+  }
+  .explore-journel img {
+    width: 240px;
+  }
+
+  .figma {
+    top: 80px !important;
+  }
+  .imagesec p {
+    font-size: 12px;
+  }
+  .fontsec p {
+    font-size: 12px;
+  }
+  .first-section p {
+    font-size: 12px;
+  }
+  .first-section .crm-logo-two img {
+    height: 160px;
+  }
+  .first-section .crm-logo-one img {
+    height: 100px;
+  }
+
+  .filedark {
+    min-height: 80vh;
+  }
+}
+
+@media (min-width: 270px) and (max-width: 320px) {
+  .mask-grp img {
+    width: 210px;
+  }
+  .explore-journel img {
+    width: 200px;
+  }
+
+  .figma {
+    top: 80px !important;
+  }
+  .imagesec p {
+    font-size: 12px;
+  }
+  .fontsec p {
+    font-size: 12px;
+  }
+  .first-section p {
+    font-size: 12px;
+  }
+  .first-section .crm-logo-two img {
+    height: 150px;
+  }
+  .first-section .crm-logo-one img {
+    height: 100px;
+  }
+
+  .filedark {
+    min-height: 80vh;
+  }
+} 
